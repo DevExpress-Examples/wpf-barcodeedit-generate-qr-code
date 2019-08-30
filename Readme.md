@@ -6,7 +6,7 @@
 # How to: Create a QRCode BarCodeControl
 
 
-This example demonstrates a BarCode with the QRCode symbology.
+This example demonstrates how to use BarCodeEdit to display a QR code based on a custom value.
 
 <br/>
 
