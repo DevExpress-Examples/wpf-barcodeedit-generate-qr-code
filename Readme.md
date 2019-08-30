@@ -6,7 +6,7 @@
 # How to: Create a QRCode BarCodeControl
 
 
-This example demonstrates how to use BarCodeEdit to display a QR code based on a custom value.
+This example demonstrates how to use [BarCodeEdit](https://documentation.devexpress.com/WPF/17745/Controls-and-Libraries/Data-Editors/Editor-Types/BarCodeEdit) to display a QR code based on a custom value.
 
 <br/>
 
