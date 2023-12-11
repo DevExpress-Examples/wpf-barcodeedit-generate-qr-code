@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WPF BarCode Editor - Create a QR Code Editor
+# WPF BarCode Editor - Create a QR Code Generator
 
 This example uses the [WPF BarCodeEdit](https://docs.devexpress.com/WPF/DevExpress.Xpf.Editors.BarCodeEdit) control to generate a QR code based on user input.
 
